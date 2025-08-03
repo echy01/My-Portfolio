@@ -54,7 +54,7 @@ To view this project locally:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-portfolio-repo.git
+git clone https://github.com/echy01/my-portfolio.git
 
 (Remember to replace yourusername/your-portfolio-repo.git with your actual GitHub repository URL.)
 
