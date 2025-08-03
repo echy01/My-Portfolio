@@ -1,4 +1,4 @@
-My Portfolio
+#My Portfolio
 Project Overview
 Welcome to my personal portfolio website! This project was built as part of the PLP Academy Portfolio Challenge. It serves as a comprehensive showcase of my skills, educational background, professional interests, and projects, designed to be a central hub for potential collaborators and employers to learn more about my journey and work in software engineering.
 
