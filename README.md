@@ -56,11 +56,9 @@ Clone the repository:
 
 git clone https://github.com/echy01/my-portfolio.git
 
-(Remember to replace yourusername/your-portfolio-repo.git with your actual GitHub repository URL.)
-
 Navigate to the project directory:
 
-cd your-portfolio-repo
+cd my-portfolio
 
 Open index.html: Simply open the index.html file in your preferred web browser.
 
